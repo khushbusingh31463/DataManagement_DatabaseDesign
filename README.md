@@ -1,5 +1,3 @@
-# Sports League Management System
-
 ## Introduction
 
 The **Sports League Management System** is a college project designed to streamline the management of team and player data while enabling data-driven decision-making through insightful visualizations. The system supports administrators and coaches by improving data accuracy, tracking player performance, and providing strategic insights into team operations.
